@@ -1,6 +1,6 @@
 # Production_Management
 
-This is an indvidual module from web-based Apparel Manufacturing Management System.
+This is an indvidual management module from Web-based Apparel Manufacturing Management System.
 
 ## Steps to run the program:
 1. Clone/ download the repository.
