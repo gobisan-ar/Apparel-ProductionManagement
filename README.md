@@ -10,5 +10,5 @@ This is an indvidual module from web-based Apparel Manufacturing Management Syst
 5. Change database username and password available in DBConnection.java file
 6. Run the projcet on the server
 7. Use below credentials to acces the system: </br>
-      i. username = ProductManager, root123 </br>
-      ii. username = ProductionManager, root123 
+      i. username = ProductManager, password = root123 </br>
+      ii. username = ProductionManager, password = root123 
