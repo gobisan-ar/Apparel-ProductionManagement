@@ -53,6 +53,6 @@
 				</ul>
 			</div>
 			<div class="d-flex justify-content-center mt-4 mb-4">
-	      		<button class="btn btn-danger" type="button" ><i class="bi bi-box-arrow-right"></i>&nbsp; Logout</button>
+	      		<a href="<%=request.getContextPath()%>/login.jsp" class="btn btn-danger" type="button" ><i class="bi bi-box-arrow-right"></i>&nbsp; Logout</a>
 	   		</div>
 		</nav>

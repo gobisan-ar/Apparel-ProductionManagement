@@ -13,8 +13,8 @@ import java.sql.SQLException;
 
 public class VokotDBConnection {
 	private String jdbcURL = "jdbc:mysql://localhost:3306/Vokot?useSSL=false";
-	private String jdbcUsername =  "root";
-	private String jdbcPassword = "gobisql123";
+	private String jdbcUsername =  "";
+	private String jdbcPassword = "";
 
 	// get database connection
 	public Connection getConnection() {
