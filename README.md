@@ -1,6 +1,8 @@
 # Production_Management
 
-This is an indvidual management module from Web-based Apparel Manufacturing Management System.
+This is an indvidual management module from Web-based Apparel Manufacturing Management System which was implemented as an academic group project in the 2nd semester of 2nd year.
+
+Fully integrated project ![OriginalProject]("https://github.com/SLIIT-FacultyOfComputing/itp_project-itp21_s2_mt_11")
 
 ## Steps to run the program:
 1. Clone/ download the repository.
